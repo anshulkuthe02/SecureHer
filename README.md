@@ -4,3 +4,4 @@ It includes automatic audio/video recording during emergencies, a virtual guardi
 The app is user-friendly and supports multiple languages, ensuring accessibility for all users.
 
 So for this real world problem we present the world *SecureHer* webapp with advanced features.
+✨✨
